@@ -9,3 +9,4 @@ Robot electronic components:
 
 The design of the robot was carried out on the Tinkercad platform based on an already created project, the parts had to be resized and printed on a 3D printer.
 In order to upload the code to the robot, the ARDUINO IDE platform was used, which links directly to the Atmega microcontroller.
+![WhatsApp Image 2023-09-21 at 10 52 48 AM](https://github.com/FSebaT/TutureEngineers_The_Odyssey/assets/79061433/1cc70ca3-c05f-4bce-b35d-c5a1a58b3a3f)
